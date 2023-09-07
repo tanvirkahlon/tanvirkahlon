@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, I'm Tanvir Kahlon
+
+### About me
+I am enthusiastic about problem-solving and coding and aspiring to make an impact in the tech realm. 
 
 <!--
 **tanvirkahlon/tanvirkahlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
