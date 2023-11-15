@@ -14,5 +14,6 @@ I'm currently working with:
 
 - Java
 - Python
+- C++
 - HTML, CSS, JavaScript
 - Git
